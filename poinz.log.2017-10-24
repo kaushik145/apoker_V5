@@ -1,0 +1,12 @@
+2017-10-24T01:10:18.658Z - info: [info] commandSchemaValidator: loading command schemas..
+2017-10-24T01:10:18.667Z - info: [info] commandSchemaValidator: got 15 schema files...
+2017-10-24T01:10:18.948Z - info: [info] server: -- SERVER STARTED -- (0.0.0.0:3000)
+2017-10-24T01:10:18.956Z - info: [info] roomsStore: select redis 0 null OK
+2017-10-24T01:49:25.405Z - info: [info] commandSchemaValidator: loading command schemas..
+2017-10-24T01:49:25.422Z - info: [info] commandSchemaValidator: got 15 schema files...
+2017-10-24T01:49:25.799Z - info: [info] server: -- SERVER STARTED -- (0.0.0.0:3000)
+2017-10-24T01:49:25.807Z - info: [info] roomsStore: select redis 0 null OK
+2017-10-24T01:59:23.568Z - info: [info] commandSchemaValidator: loading command schemas..
+2017-10-24T01:59:23.580Z - info: [info] commandSchemaValidator: got 15 schema files...
+2017-10-24T01:59:23.836Z - info: [info] server: -- SERVER STARTED -- (0.0.0.0:8080)
+2017-10-24T01:59:23.843Z - info: [info] roomsStore: select redis 0 null OK
