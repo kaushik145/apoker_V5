@@ -1,0 +1,24 @@
+2017-10-26T17:08:53.107Z - info: [info] commandSchemaValidator: loading command schemas..
+2017-10-26T17:08:53.126Z - info: [info] commandSchemaValidator: got 15 schema files...
+2017-10-26T17:08:53.442Z - info: [info] server: -- SERVER STARTED -- (0.0.0.0:8080)
+2017-10-26T17:08:53.450Z - info: [info] roomsStore: select redis 0 null OK
+2017-10-26T17:12:04.906Z - info: [info] commandSchemaValidator: loading command schemas..
+2017-10-26T17:12:04.916Z - info: [info] commandSchemaValidator: got 15 schema files...
+2017-10-26T17:12:05.181Z - info: [info] server: -- SERVER STARTED -- (0.0.0.0:8080)
+2017-10-26T17:12:05.189Z - info: [info] roomsStore: select redis 0 null OK
+2017-10-26T17:14:23.141Z - info: [info] commandSchemaValidator: loading command schemas..
+2017-10-26T17:14:23.154Z - info: [info] commandSchemaValidator: got 15 schema files...
+2017-10-26T17:14:23.421Z - info: [info] server: -- SERVER STARTED -- (0.0.0.0:8080)
+2017-10-26T17:14:23.429Z - info: [info] roomsStore: select redis 0 null OK
+2017-10-26T17:18:29.303Z - info: [info] commandSchemaValidator: loading command schemas..
+2017-10-26T17:18:29.318Z - info: [info] commandSchemaValidator: got 15 schema files...
+2017-10-26T17:18:29.746Z - info: [info] server: -- SERVER STARTED -- (0.0.0.0:8080)
+2017-10-26T17:18:29.753Z - info: [info] roomsStore: select redis 0 null OK
+2017-10-26T17:29:51.329Z - info: [info] commandSchemaValidator: loading command schemas..
+2017-10-26T17:29:51.348Z - info: [info] commandSchemaValidator: got 15 schema files...
+2017-10-26T17:29:51.651Z - info: [info] server: -- SERVER STARTED -- (0.0.0.0:8080)
+2017-10-26T17:29:51.661Z - info: [info] roomsStore: select redis 0 null OK
+2017-10-26T17:34:18.832Z - info: [info] commandSchemaValidator: loading command schemas..
+2017-10-26T17:34:18.843Z - info: [info] commandSchemaValidator: got 15 schema files...
+2017-10-26T17:34:19.173Z - info: [info] server: -- SERVER STARTED -- (0.0.0.0:8080)
+2017-10-26T17:34:19.180Z - info: [info] roomsStore: select redis 0 null OK
