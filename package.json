@@ -1,15 +1,10 @@
 {
-  "name": "poinz-server",
+  "name": "apoker",
   "version": "0.2.1",
   "description": "Distributed Planning Poker",
   "private": true,
-  "author": "xeronimus@gmail.com",
+  "author": "kaushik145@gmail.com",
   "license": "MIT",
-  "homepage": "https://github.com/Zuehlke/poinz",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Zuehlke/poinz.git"
-  },
   "main": "lib/server.js",
   "scripts": {
     "build": "babel src -d lib",
